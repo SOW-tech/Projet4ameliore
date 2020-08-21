@@ -326,6 +326,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    padding-left: 10px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -652,6 +653,8 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    padding-right: 100px;
+    font-weight: bold;
 }
 
 .container {
@@ -818,11 +821,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere-copie.jpeg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
